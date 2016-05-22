@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blood>
+	<record>
+		<id>1</id>
+		<type>A型</type>
+	</record>
+	<record>
+		<id>2</id>
+		<type>B型</type>
+	</record>
+	<record>
+		<id>3</id>
+		<type>AB型</type>
+	</record>
+	<record>
+		<id>4</id>
+		<type>O型</type>
+	</record>
+</blood>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<sex>
+		<id>1</id>
+		<value>男</value>
+	</sex>
+	<sex>
+		<id>2</id>
+		<value>女</value>
+	</sex>
+</root>

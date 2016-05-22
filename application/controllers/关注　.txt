@@ -1,0 +1,215 @@
+{"count":"32","record":[{"uid":"111285","followed_uid":"111263","nickname":"\u9752\u8863\u72d0\u72f8\u6635\u79f0","utype":"1","full_name":"\u90d1\u723d\u5168\u79f0","follow_num":"22","fans_num":"33","province_name":"\u5317\u4eac\u5e02\r","city_name":"\u5e02\u8f96\u533a","relation_type":"0","user_relation":"1","content":"\u5206\u4eab\u56fe\u7247","is_friendship":"0","face":"<img height=50 width=50 src=\'http:\/\/xc.goyor.com\/var\/face\/111263_middle_avatar.jpg\' \/>","nickname_url":"http:\/\/xc.goyor.com\/index.php?c=p_home&uid=111263"},{"uid":"111285","followed_uid":"111272","nickname":"winwin\u6635\u79f0","utype":"1","full_name":"\u5168\u79f0","follow_num":"23","fans_num":"30","province_name":"\u5e7f\u4e1c\u7701\r","city_name":"\u5e7f\u5dde\u5e02","relation_type":"3","user_relation":"1","content":"<img src= \"http:\/\/xc.goyor.com\/images\/user\/emotions\/7.gif\" \/>","is_friendship":"0","face":"<img height=50 width=50 src=\'http:\/\/xc.goyor.com\/images\/face\/50x50.png\' \/>","nickname_url":"http:\/\/xc.goyor.com\/index.php?c=p_home&uid=111272"},{"uid":"111285","followed_uid":"111276","nickname":"\u66a8\u5357\u5927\u5b66\u56e2\u59d4","utype":"4","full_name":"\u66a8\u5357\u5927\u5b66\u56e2\u59d4","follow_num":"24","fans_num":"24","province_name":"\u5e7f\u4e1c\u7701\r","city_name":"\u5e7f\u5dde\u5e02","relation_type":"0","user_relation":"1","content":"&lt;a href=&quot;#&quot;&gt;xxxx&lt;\/a&gt;\/\/<a class=\"cont_user\" href=\"http:\/\/xc.goyor.com\/index.php?c=p_home&uid=111276\">@\u66a8\u5927\u56e2\u59d4\uff1a<\/a> &lt;img src= &quot;http:\/\/xc.goyor.com\/images\/user\/emotions\/5.gif&quot; \/&gt;","is_friendship":"0","face":"<img height=50 width=50 src=\'http:\/\/xc.goyor.com\/var\/face\/111276_middle_avatar.jpg\' \/>","nickname_url":"http:\/\/xc.goyor.com\/index.php?c=p_home&uid=111276"},{"uid":"111285","followed_uid":"111320","nickname":"dsfj\u6635\u79f0","utype":"1","full_name":"\u5168\u79f0","follow_num":"0","fans_num":"5","province_name":"\u5317\u4eac\u5e02\r","city_name":"\u5e02\u8f96\u533a","relation_type":"0","user_relation":"0","content":"<img src= \"http:\/\/xc.goyor.com\/images\/user\/emotions\/3.gif\" \/>","is_friendship":"0","face":"<img height=50 width=50 src=\'http:\/\/xc.goyor.com\/images\/face\/50x50.png\' \/>","nickname_url":"http:\/\/xc.goyor.com\/index.php?c=p_home&uid=111320"},{"uid":"111285","followed_uid":"111316","nickname":"bo1112005\u6635\u79f0","utype":"1","full_name":"\u5168\u79f0","follow_num":"0","fans_num":"2","province_name":"\u5e7f\u4e1c\u7701\r","city_name":"\u5e7f\u5dde\u5e02","relation_type":"0","user_relation":"0","content":"","is_friendship":"0","face":"<img height=50 width=50 src=\'http:\/\/xc.goyor.com\/images\/face\/50x50.png\' \/>","nickname_url":"http:\/\/xc.goyor.com\/index.php?c=p_home&uid=111316"},{"uid":"111285","followed_uid":"111326","nickname":"\u7d22\u6797\u96c5\u6635\u79f0","utype":"1","full_name":"\u7d22\u6797\u96c5\u5168\u79f0","follow_num":"1","fans_num":"3","province_name":"\u5e7f\u897f\u58ee\u65cf\u81ea\u6cbb\u533a\r","city_name":"\u5357\u5b81\u5e02","relation_type":"0","user_relation":"0","content":"\u5206\u4eab\u56fe\u7247","is_friendship":"0","face":"<img height=50 width=50 src=\'http:\/\/xc.goyor.com\/var\/face\/111326_middle_avatar.jpg\' \/>","nickname_url":"http:\/\/xc.goyor.com\/index.php?c=p_home&uid=111326"},{"uid":"111285","followed_uid":"111277","nickname":"\u66a8\u5357\u5927\u5b66\u6444\u5f71\u534f\u4f1a\u5168\u79f0","utype":"2","full_name":"\u66a8\u5357\u5927\u5b66\u6444\u5f71\u534f\u4f1a\u5168\u79f0","follow_num":"23","fans_num":"25","province_name":"\u5317\u4eac\u5e02\r","city_name":"\u5e02\u8f96\u533a","relation_type":"0","user_relation":"1","content":"","is_friendship":"0","face":"<img height=50 width=50 src=\'http:\/\/xc.goyor.com\/images\/face\/50x50.png\' \/>","nickname_url":"http:\/\/xc.goyor.com\/index.php?c=p_home&uid=111277"},{"uid":"111285","followed_uid":"111268","nickname":"\u5f71\u5b50\u6635\u79f0","utype":"1","full_name":"","follow_num":"30","fans_num":"32","province_name":"\u5317\u4eac\u5e02\r","city_name":"\u5e02\u8f96\u533a","relation_type":"0","user_relation":"1","content":"\u5927\u6240\u53d1\u751f\u7684<br \/><a class=\'show_link\' href=\'http:\/\/xc.goyor.com\/index.php?c=v.v_detail&id=2852&uid=111263\'><b>\u6295\u7968<\/b>:\u5f71\u9662\u91cc\uff0c\u90a3\u4e9b\u8ba9\u4eba\u6293\u72c2\u7684\u884c\u4e3a\uff01<\/a>","is_friendship":"0","face":"<img height=50 width=50 src=\'http:\/\/xc.goyor.com\/var\/face\/111268_middle_avatar.jpg\' \/>","nickname_url":"http:\/\/xc.goyor.com\/index.php?c=p_home&uid=111268"},{"uid":"111285","followed_uid":"111331","nickname":"\u6f47\u6e58\u5251\u5ba2\u6635\u79f0","utype":"1","full_name":"\u5168\u79f0","follow_num":"6","fans_num":"10","province_name":"\u5317\u4eac\u5e02\r","city_name":"\u53bf","relation_type":"1","user_relation":"1","content":"","is_friendship":"0","face":"<img height=50 width=50 src=\'http:\/\/xc.goyor.com\/var\/face\/111331_middle_avatar.jpg\' \/>","nickname_url":"http:\/\/xc.goyor.com\/index.php?c=p_home&uid=111331"},{"uid":"111285","followed_uid":"111330","nickname":"\u5317\u4eac\u5e08\u8303\u5927\u5b66\u8db3\u7403\u534f\u4f1a\u5168\u79f0","utype":"2","full_name":"\u5317\u4eac\u5e08\u8303\u5927\u5b66\u8db3\u7403\u534f\u4f1a\u5168\u79f0","follow_num":"1","fans_num":"5","province_name":"\u5317\u4eac\u5e02\r","city_name":"\u53bf","relation_type":"3","user_relation":"0","content":"\u56db\u53f6\u8349\u662f\u5e78\u798f\u7684\u8c61\u5f81\u3002<img src= \"http:\/\/xc.goyor.com\/images\/user\/emotions\/2.gif\" \/>","is_friendship":"0","face":"<img height=50 width=50 src=\'http:\/\/xc.goyor.com\/var\/face\/111330_middle_avatar.jpg\' \/>","nickname_url":"http:\/\/xc.goyor.com\/index.php?c=p_home&uid=111330"}],"succeed":"Y","record_count":10,"page_count":4,"relation":["\u672a\u5206\u7ec4","\u597d\u53cb","\u56e2\u59d4","\u793e\u56e2","\u4f01\u4e1a"]}
+
+
+Array
+(
+    [count] => 32
+    [record] => Array
+        (
+            [0] => Array
+                (
+                    [uid] => 111285
+                    [followed_uid] => 111263
+                    [nickname] => 闈掕。鐙愮嫺鏄电О
+                    [utype] => 1
+                    [full_name] => 閮戠埥鍏ㄧО
+                    [follow_num] => 22
+                    [fans_num] => 33
+                    [province_name] => 鍖椾含甯�
+                    [city_name] => 甯傝緰鍖�
+                    [relation_type] => 0
+                    [user_relation] => 1
+                    [content] => 鍒嗕韩鍥剧墖
+                    [is_friendship] => 0
+                    [face] => <img height=50 width=50 src='http://xc.goyor.com/var/face/111263_middle_avatar.jpg' />
+                    [nickname_url] => http://xc.goyor.com/index.php?c=p_home&uid=111263
+                )
+
+            [1] => Array
+                (
+                    [uid] => 111285
+                    [followed_uid] => 111272
+                    [nickname] => winwin鏄电О
+                    [utype] => 1
+                    [full_name] => 鍏ㄧО
+                    [follow_num] => 23
+                    [fans_num] => 30
+                    [province_name] => 骞夸笢鐪�
+                    [city_name] => 骞垮窞甯�
+                    [relation_type] => 3
+                    [user_relation] => 1
+                    [content] => <img src= "http://xc.goyor.com/images/user/emotions/7.gif" />
+                    [is_friendship] => 0
+                    [face] => <img height=50 width=50 src='http://xc.goyor.com/images/face/50x50.png' />
+                    [nickname_url] => http://xc.goyor.com/index.php?c=p_home&uid=111272
+                )
+
+            [2] => Array
+                (
+                    [uid] => 111285
+                    [followed_uid] => 111276
+                    [nickname] => 鏆ㄥ崡澶у鍥㈠
+                    [utype] => 4
+                    [full_name] => 鏆ㄥ崡澶у鍥㈠
+                    [follow_num] => 24
+                    [fans_num] => 24
+                    [province_name] => 骞夸笢鐪�
+                    [city_name] => 骞垮窞甯�
+                    [relation_type] => 0
+                    [user_relation] => 1
+                    [content] => &lt;a href=&quot;#&quot;&gt;xxxx&lt;/a&gt;//<a class="cont_user" href="http://xc.goyor.com/index.php?c=p_home&uid=111276">@鏆ㄥぇ鍥㈠锛�</a> &lt;img src= &quot;http://xc.goyor.com/images/user/emotions/5.gif&quot; /&gt;
+                    [is_friendship] => 0
+                    [face] => <img height=50 width=50 src='http://xc.goyor.com/var/face/111276_middle_avatar.jpg' />
+                    [nickname_url] => http://xc.goyor.com/index.php?c=p_home&uid=111276
+                )
+
+            [3] => Array
+                (
+                    [uid] => 111285
+                    [followed_uid] => 111320
+                    [nickname] => dsfj鏄电О
+                    [utype] => 1
+                    [full_name] => 鍏ㄧО
+                    [follow_num] => 0
+                    [fans_num] => 5
+                    [province_name] => 鍖椾含甯�
+                    [city_name] => 甯傝緰鍖�
+                    [relation_type] => 0
+                    [user_relation] => 0
+                    [content] => <img src= "http://xc.goyor.com/images/user/emotions/3.gif" />
+                    [is_friendship] => 0
+                    [face] => <img height=50 width=50 src='http://xc.goyor.com/images/face/50x50.png' />
+                    [nickname_url] => http://xc.goyor.com/index.php?c=p_home&uid=111320
+                )
+
+            [4] => Array
+                (
+                    [uid] => 111285
+                    [followed_uid] => 111316
+                    [nickname] => bo1112005鏄电О
+                    [utype] => 1
+                    [full_name] => 鍏ㄧО
+                    [follow_num] => 0
+                    [fans_num] => 2
+                    [province_name] => 骞夸笢鐪�
+                    [city_name] => 骞垮窞甯�
+                    [relation_type] => 0
+                    [user_relation] => 0
+                    [content] => 
+                    [is_friendship] => 0
+                    [face] => <img height=50 width=50 src='http://xc.goyor.com/images/face/50x50.png' />
+                    [nickname_url] => http://xc.goyor.com/index.php?c=p_home&uid=111316
+                )
+
+            [5] => Array
+                (
+                    [uid] => 111285
+                    [followed_uid] => 111326
+                    [nickname] => 绱㈡灄闆呮樀绉�
+                    [utype] => 1
+                    [full_name] => 绱㈡灄闆呭叏绉�
+                    [follow_num] => 1
+                    [fans_num] => 3
+                    [province_name] => 骞胯タ澹棌鑷不鍖�
+                    [city_name] => 鍗楀畞甯�
+                    [relation_type] => 0
+                    [user_relation] => 0
+                    [content] => 鍒嗕韩鍥剧墖
+                    [is_friendship] => 0
+                    [face] => <img height=50 width=50 src='http://xc.goyor.com/var/face/111326_middle_avatar.jpg' />
+                    [nickname_url] => http://xc.goyor.com/index.php?c=p_home&uid=111326
+                )
+
+            [6] => Array
+                (
+                    [uid] => 111285
+                    [followed_uid] => 111277
+                    [nickname] => 鏆ㄥ崡澶у鎽勫奖鍗忎細鍏ㄧО
+                    [utype] => 2
+                    [full_name] => 鏆ㄥ崡澶у鎽勫奖鍗忎細鍏ㄧО
+                    [follow_num] => 23
+                    [fans_num] => 25
+                    [province_name] => 鍖椾含甯�
+                    [city_name] => 甯傝緰鍖�
+                    [relation_type] => 0
+                    [user_relation] => 1
+                    [content] => 
+                    [is_friendship] => 0
+                    [face] => <img height=50 width=50 src='http://xc.goyor.com/images/face/50x50.png' />
+                    [nickname_url] => http://xc.goyor.com/index.php?c=p_home&uid=111277
+                )
+
+            [7] => Array
+                (
+                    [uid] => 111285
+                    [followed_uid] => 111268
+                    [nickname] => 褰卞瓙鏄电О
+                    [utype] => 1
+                    [full_name] => 
+                    [follow_num] => 30
+                    [fans_num] => 32
+                    [province_name] => 鍖椾含甯�
+                    [city_name] => 甯傝緰鍖�
+                    [relation_type] => 0
+                    [user_relation] => 1
+                    [content] => 澶ф墍鍙戠敓鐨�<br /><a class='show_link' href='http://xc.goyor.com/index.php?c=v.v_detail&id=2852&uid=111263'><b>鎶曠エ</b>:褰遍櫌閲岋紝閭ｄ簺璁╀汉鎶撶媯鐨勮涓猴紒</a>
+                    [is_friendship] => 0
+                    [face] => <img height=50 width=50 src='http://xc.goyor.com/var/face/111268_middle_avatar.jpg' />
+                    [nickname_url] => http://xc.goyor.com/index.php?c=p_home&uid=111268
+                )
+
+            [8] => Array
+                (
+                    [uid] => 111285
+                    [followed_uid] => 111331
+                    [nickname] => 娼囨箻鍓戝鏄电О
+                    [utype] => 1
+                    [full_name] => 鍏ㄧО
+                    [follow_num] => 6
+                    [fans_num] => 10
+                    [province_name] => 鍖椾含甯�
+                    [city_name] => 鍘�
+                    [relation_type] => 1
+                    [user_relation] => 1
+                    [content] => 
+                    [is_friendship] => 0
+                    [face] => <img height=50 width=50 src='http://xc.goyor.com/var/face/111331_middle_avatar.jpg' />
+                    [nickname_url] => http://xc.goyor.com/index.php?c=p_home&uid=111331
+                )
+
+            [9] => Array
+                (
+                    [uid] => 111285
+                    [followed_uid] => 111330
+                    [nickname] => 鍖椾含甯堣寖澶у瓒崇悆鍗忎細鍏ㄧО
+                    [utype] => 2
+                    [full_name] => 鍖椾含甯堣寖澶у瓒崇悆鍗忎細鍏ㄧО
+                    [follow_num] => 1
+                    [fans_num] => 5
+                    [province_name] => 鍖椾含甯�
+                    [city_name] => 鍘�
+                    [relation_type] => 3
+                    [user_relation] => 0
+                    [content] => 鍥涘彾鑽夋槸骞哥鐨勮薄寰併€�<img src= "http://xc.goyor.com/images/user/emotions/2.gif" />
+                    [is_friendship] => 0
+                    [face] => <img height=50 width=50 src='http://xc.goyor.com/var/face/111330_middle_avatar.jpg' />
+                    [nickname_url] => http://xc.goyor.com/index.php?c=p_home&uid=111330
+                )
+
+        )
+
+    [succeed] => Y
+    [record_count] => 10
+    [page_count] => 4
+    [relation] => Array
+        (
+            [0] => 鏈垎缁�
+            [1] => 濂藉弸
+            [2] => 鍥㈠
+            [3] => 绀惧洟
+            [4] => 浼佷笟
+        )
+
+)
+
+

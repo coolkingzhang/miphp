@@ -1,0 +1,372 @@
+@charset "utf-8";
+/* inhref */
+.m_email_face {background: url("../../images/user/personal_own_page/m_email_icon2.png") no-repeat;float: left;height: 18px;width: 18px;}
+.m_com_chw {color: #758190;margin-bottom: 7px;cursor:pointer; vertical-align:middle}
+.m_com_bt {background:url("../../images/commit/green_bt.png") no-repeat scroll 0 0 transparent;color: #FFFFFF;float: right;font-size: 14px;line-height: 29px;margin: 3px 0 0 0;text-align: center;width: 75px;}
+.m_com_bt:hover{ text-decoration:none}
+
+/* zhuanbo */
+.dialog-header {border-bottom:1px solid #d3d3d3;color: #898989;cursor: move;font-size: 14px;height: 26px;line-height: 26px;min-height: 15px;padding: 6px 6px 6px 35px;}
+a.dialog-close {color: #778393;cursor: pointer;float: right;height: 20px;line-height: 20px;margin: 4px 10px 0 0;text-align: center;width: 18px;}
+.jf_cont_outline{margin:20px 10px;}
+.jf_cont_inline,.jf_re_content_b{padding:5px 5px;}
+.jf_relay_tools span{float:left;}
+.jf_relay_tools a{border:1px solid #f1f1f1;background:white;display:block;float:left;padding:0 10px;margin: 0 5px -3px;color:#778393}
+.jf_relay_tools a.on{border-bottom:1px solid white;color:#1E50A2;}
+.jf_relay_cont{border:1px solid #f1f1f1;}
+.jf_re_content_b {margin:5px 0 0 46px;}
+.jf_re_con_words,.j_commit_setLayout .left{text-align:right;}
+.jf_re_content_w{margin:10px 45px}
+.jf_re_con_input {font-size: 12px;height: 92px;width: 385px;overflow:hidden;}
+.jf_re_btn {float: right;height: 25px;margin: 7px 30px 0 0;width: 53px;}
+.jf_re_sel {color: #898989;height: 20px;line-height: 20px;width: 220px;}
+.jf_re_email {color: #898989;height: 20px;width: 215px;}
+/* end */
+
+/*new common CSS*/
+.m_wei .m_face,.comm_right{float:left;}
+.relative .comm_main,.comm_2main,.collectStyle{position:relative;}
+.Jf_collect{position:absolute;}
+.font14{font-size:14px;}
+.font12,.left_nav ul li a span.st_u{font-size:12px;}
+.j_delete_r,.j_disc_more{text-align:right;}
+.j_delete_r a{ padding-left:8px; color:#999}
+
+/*color*/
+.c1,.comm_top_nav .nav a,.top_tools a,.left_nav ul li.on a,.comm_right .everyQD{color:white;}
+.c2,.QDdays span{color:#d65e10}
+.c10,.comm_right  .QDdays ,.m_wei .m_change{color:#898989}
+.c11{color:#535353}
+
+/*border_color*/
+.bd1{border:1px solid #f9e7db;}
+.bd2{border:1px solid #8ed5f6;}
+.bd3{border:1px solid white;}
+.bd4{border:1px solid #f1f1f1;}
+.bd5{border:1px solid #D65E10;}
+
+/*bg*/
+.comm_right  .QD_tools{background:white;}
+.left_nav ul li.on{background: #FF8947;}
+.bg2,.left_nav ul li.hover{background: url(../../images/commit/left_hov_bg.png) repeat;}
+
+/*!*/
+.loading{background: url(../../images/commit/loading.jpg) no-repeat;width:114px;height:24px;position:absolute;bottom:2px;left:378px;display:none;}
+.comm_left,.comm_middle,.r_cont_list .list_details ul li{float:left;}
+.ico50_50,.m_wei .m_face a img,.r_cont_list .list_details ul li img{width:50px;height:50px;}
+
+/*团委对公 150头像*/
+.ico150_150{ width:150px; height:150px}
+.commit_bg{background: url("../../images/bg_tuanwei.png") no-repeat top center #95DDF6}
+.comm_top_re_y{background: url(../../images/commit/top_re_y_bg.png) repeat-x;width:100%;position:absolute;height:31px;z-index:-1;}
+.logoimg{height:31px;}
+.top_tools{width:239px;padding:3px 0 0}
+.r_cont_list .list_details ul li p{width:48px;height:22px;overflow:hidden;}
+.r_cont_list .list_details{width:180px;overflow:hidden;}
+.j_disc_cont{width:450px;margin:0 0 0 10px;}
+.j_textare2{width:485px;padding:5px;}
+.top_subNav_cli{margin:0 3px 0 0;padding:0 3px 0 16px;}
+.num_style1{background:#d65e10;width:13px;height:13px;font-size:10px;display:block;margin:5px 0 0 10px;line-height: 13px; color:#fff;text-align: center;}
+.line_bottom1{border-top: 1px solid #8fd5f6;height: 1px; width:125px; margin:13px 13px 30px }
+.line_t_dashed1{border-top:1px dashed white;height:1px;width:173px;margin:27px 0 27px 4px;}
+
+/* top_up_menu */
+.top_up_menu{background:#FBFBFB;border: 1px solid #717274;border-top:none;height: auto;left: -78px;position: absolute;top: 22px;width: 111px;padding:5px;z-index: 999;color:#717274}
+.top_up_menu ul li{ margin-bottom:4px}
+.top_up_menu ul li a{display:block;padding:3px 5px;color:#717274;}
+.top_up_menu ul li a:hover{background:#f1f1f1;text-decoration:none;}
+/* end */
+
+/*正在讨论*/
+.talk_o_list{ width: 148px; padding: 0 10px;}
+
+/*fans_con*/ 
+.fans_con div a{margin:0 8px 0 0;}
+.fans_con div a:hover{ text-decoration:none}
+.fans_con div a.c2{font-weight:bold;}
+.fans_con div a label{display:block;cursor:pointer;}
+.fans_con div.bd5{height:34px;margin:5px 4px 0 0;width:1px;border:none;border-left:1px solid #92d6f5;}
+.top_sty1{background: url(../../images/commit/arrows.png) no-repeat; width:16px; height:8px;margin:0 0 -1px 26px}
+/* end */ 
+
+/**/
+.pl_licon{xwidth:135px; xheight:24px}
+.pl_licon a{width:22px;height:20px;text-decoration:none;}
+/* end */ 
+
+/* comm_talk*/
+.comm_talk .dialog-content {clear: both;text-align: left;}
+.comm_talk .m_pbto {background: url("../../images/user/personal_own_page/m_pb_icon0.png") no-repeat;height: 29px;width: 192px;text-align: right;width:auto;}
+.comm_talk .m_comment_t{ background:url(../../images/user/personal_own_page/m_sp_icon.png) no-repeat;}
+.comm_talk .m_pbto .pbto_font{font-family: Constantia,Georgia;font-size: 22px;font-weight: 700;}
+.comm_talk .m_pbcon {margin: 3px 0 0 0;overflow:hidden;}
+.comm_talk .m_pb_c {height: 104px;width: 569px;overflow:hidden;}
+.comm_talk .m_pb_b,.comm_talk .m_pbi{margin:5px 0 0 0;}
+.comm_talk .m_pbi a{margin:0 15px 0 0;}
+.comm_talk .m_pb_b .m_pb_w{float:left;margin: 0 10px 0 0;color:#898989;line-height: 27px;}
+.comm_talk .m_pb_f {background: url("../../images/user/personal_own_page/m_face.png") no-repeat;float: left;padding-left: 21px; height:18px}
+.comm_talk .m_pb_p {background: url("../../images/user/personal_own_page/m_email_icon2.png") -28px 0  no-repeat;float: left;padding-left: 24px;}
+.comm_talk .m_pb_v {background: url("../../images/user/personal_own_page/m_pb_icon1.png") no-repeat;float: left;padding-left: 22px;}
+.comm_talk .m_pb_t {background: url("../../images/user/personal_own_page/m_pb_icon1.png") no-repeat scroll 0 -25px;float: left;padding-left: 23px;}
+.comm_talk .m_pb_vo {background: url("../../images/user/personal_own_page/m_pb_icon1.png") no-repeat scroll 0 -52px;float: left;padding-left: 23px;}
+.comm_talk .talk_ok{ background:#fff url(../../images/commit/talk_success.jpg) no-repeat center; border:1px solid #f1f1f1}
+/* end */
+
+/* middle_tools*/
+.middle_tools a {display: inline-block;font-size: 14px;padding: 0 10px; height:28px; line-height:28px; color:#636363}
+/* end */
+
+/*!!*/
+.j_topName a{display: inline-block;height: 23px;overflow: hidden;}
+.comm_top_nav{background: url(../../images/commit/top_bg.png) no-repeat;height:31px;padding:0 0 0 10px;}
+.comm_top_nav .nav{margin: 0 0 0 140px;}
+.comm_top_nav .nav ul li{float:left;margin: 0 55px 0 0;}
+.comm_top_nav .nav a{font-size: 14px;line-height: 30px;}
+.comm_top_nav .nav a img{display:block;text-align:center;margin: -5px 0 0 5px;}
+.more_deta{ height:6px; padding-top:5px; xwidth:120px}
+.more_deta .l_deta{ background:url(../../images/commit/left_nav_deta.png) no-repeat; width:12px; height:6px; margin:0 auto; display:block}
+.comm_main{background: url(../../images/commit/cont_bg.png) repeat-y;margin:13px 0 0 0;}
+.comm_2main{ *float:left; overflow:hidden; display:block;background: url(../../images/commit/cont_bg2.png) repeat-y;margin:13px 0 0 0;}
+.list1{padding:0 13px}
+.list2{width:151px;padding:0 0 30px;}
+.left_nav ul li {margin:2px 0 3px 0; height:25px; line-height:25px;}
+.left_nav ul li a{background: url(../../images/commit/ico_1.png) 0 2px no-repeat;padding: 2px 3px 5px 25px;}
+.left_nav ul li a:hover{text-decoration:none;}
+.left_nav ul li a span.st_u {float: right;text-align: right;padding-right:9px;display:none;}
+.left_nav ul li.li2 a {background-position: 0 -29px;}
+.left_nav ul li.li3 a {background-position: 0 -58px;}
+.left_nav ul li.li4 a {background-position: 0 -88px;}
+.left_nav ul li.li5 a {background-position: 0 -118px;}
+.left_nav ul li.li6 a {background-position: 0 -148px;}
+.left_nav ul li.li7 a {background-position: 0 -178px;}
+.left_nav ul li.li8 a {background-position: 0 -209px;}
+.left_nav ul li.li9 a {background-position: 0 -238px;}
+.left_nav ul li.li10 a {background-position: 0 -269px;}
+
+/*团委对公 左边菜单*/
+.pub_list1{padding:0}
+.pub_list1 .pub_name{ text-align:center}
+.left_nav ul li.li10 a {background-position: 0 -303px;}
+.left_nav ul li.li11 a {background-position: 0 -333px;}
+
+.new_event{height:30px;line-height: 30px;text-align: center;margin-bottom:10px; display: none;}
+.new_event.on{display: block;}
+.new_event.on{ display:block;}
+.m_wei{border-bottom: 1px solid #F1F1F1;margin: 0 10px 16px 0;padding: 0 0 25px;}
+.m_wei .m_content {line-height: 20px;margin-left: 10px;width: 500px;overflow:hidden;}
+.comm_right .everyQD {background: url(../../images/commit/QD.jpg) no-repeat;color: white;height: 42px;padding: 4px 0 1px 31px;width: 28px;}
+.comm_right{margin-top:34px}
+.m_wei .jwei_con_p{ display:inline}
+
+/* QD */
+.comm_right  .QD_tools {border: 1px solid #D5E1E0;}
+.comm_right .QDsun{margin:2px 1px}
+.comm_right  .QDdays {padding:10px 18px 6px 5px;font-size:10px;}
+.comm_right .QDdays span{font-size:14px;font-weight:bold;}
+/* end */
+
+/* more */
+.more {padding: 0 14px;text-align: right;}
+/* end */
+
+/* bt_bg */
+.j_bt_grey{background: url(../../images/commit/gray_bt.png) no-repeat;display: inline-block;height: 25px;color: #999;display: inline-block;font-size: 14px;padding: 2px 0 0 22px;width: 53px; line-height:25px}
+.j_bt_green{background: url(../../images/commit/green_bt.png) no-repeat;display: inline-block;height: 25px;color: #FFFFFF;display: inline-block;font-size: 14px;padding: 2px 0 0 24px;width: 51px; line-height:25px}
+.j_bt_green:hover,.j_bt_grey:hover{text-decoration:none;}
+/* end */
+
+/* j_del_bt*/
+.j_del_bt{background: url(../../images/commit/del_gray.png) no-repeat;display:block;text-align:left;color:#999; width:36px; height:25px; line-height:25px; text-align:center; margin-top:13px}
+.j_del_bt.down{background: url(../../images/commit/del_down.png) no-repeat;color:#fff;text-decoration:none;}
+.j_del_bt.hover{text-decoration:none;background: url(../../images/commit/del_green.png) no-repeat;color:#fff;}
+/*end*/
+
+.new_callb{background: url(../../images/commit/call_box.png) no-repeat;width:148px;padding:10px 8px 0 12px;}
+.j_disc_details{margin:15px 0 0 0;}
+.jbit_time{background: url(../../images/commit/bit_time.png) no-repeat;height:30px;margin: 30px 0 0;padding: 3px 0 0 40px;}
+.jr_account{padding: 0 5px 5px; margin: 0 47px 0 0;}
+.jr_account.on{border:1px solid #717274;background:#FBFBFB;border-bottom:none;}
+.jr_account.on a{color:#717274;}
+.jr_account .accountFn{padding-right: 10px; background:url(../../images/commit/top_nav_deta.png) no-repeat right center;}
+.jr_account.on .accountFn{background:url(../../images/commit/top_nav_deta_on.png) no-repeat right center;}
+.jr_account .tip_num{ color:#ff0000}
+
+/* j_audit_table */
+.j_audit_table tr.audit_table_title p{ color:#2b2b2b}
+.j_audit_table tr td{border:1px solid #f1f1f1;overflow:hidden;word-break: break-all;height:30px;text-align:center;}
+.j_audit_table tr td.j_aud_td_fir{border:none;}
+.j_audit_table tr td.j_aud_td_fir input{ margin-right:10px; vertical-align:middle}
+.j_audit_table tr td p{height:30px;overflow:hidden; line-height:30px; color:#999}
+.j_groupLinks {border-bottom:1px solid #d3d3d3;padding:0 0 5px;margin: 0 0 10px 0;}
+.j_groupLinks a{margin:0 3px 0;}
+.j_show_mode{padding: 0 0 10px 20px;}
+.j_show_mode .searchBtn{ margin-top:0; margin-left:14px}
+.j_selStyle1{border:1px solid #f1f1f1;padding:3px 3px 0 3px; height:22px; line-height:22px}
+.j_selStyle1 option {padding:3px;}
+.j_inpStyle{width:180px;height:25px;font-size:16px; line-height:25px;padding: 0 5px;}
+.j_inpStyle2{width:250px;height:25px;font-size:16px;}
+/*end*/
+
+/*j_aut_details*/
+.j_aud_details{background:white;width:550px; padding-left:20px}
+.j_aud_deta_list{padding:10px 0;}
+.j_aud_list_layout{ margin-bottom:10px}
+.j_aud_list_layout div{width:110px;float:left;text-align:right;margin: 0 5px 5px;padding:0 0 3px 0 }
+.j_aud_list_layout div.j_aut_list_cont{width:400px;text-align:left;}
+/* end */
+
+/* j_submit_bt  j_cance_bt */
+.j_submit_bt{background: url(../../images/commit/submit_bt_green.png) no-repeat;color:#fff;padding:5px 16px;}
+.j_cance_bt{background: url(../../images/commit/cance_bt.png) no-repeat;color:#999;padding:5px 16px;}
+.j_submit_bt:hover{text-decoration:none;}
+/* end */
+
+/* j_attenList */
+.j_authList{border-bottom:1px solid #F1F1F1;padding: 0 0 5px 0;margin: 0 0 20px 0}
+.j_authdetails p{padding: 0 3px 3px 15px;margin: 0 3px;}
+.j_attenList a.j_each_atten{background: url(../../images/commit/each_atten.png) no-repeat;padding:0 0 0 23px;height:13px;}
+.j_attenList a.j_atten{background: url(../../images/commit/atten_yet.png) no-repeat;padding:0 0 0 23px;height:13px;}
+.j_attenList a.j_atten_add{background: url(../../images/commit/add.png) no-repeat;padding:0 0 0 23px;height:13px;}
+.j_attenList{margin:0 50px 0 0;}
+/* end */
+
+/* commit_set */
+.j_commit_set{width:800px;}
+.j_commit_setLayout .left{width:100px;}
+.j_commit_setLayout{margin:15px 0;padding:5px}
+.j_commit_setLayout div{margin:0 5px 0 0;padding:0 10px}
+/* end */
+
+.j_edit{color: #2B2B2B;xpadding: 1px 5px 2px 7px;}
+
+.j_mod_submitStyle{padding:1px 5px 1px 6px}
+.j_submit_layout{padding: 0 0 0 141px;}
+.j_commit_state{background: url(../../images/commit/notice_talk_bg.png) no-repeat; width:558px;height:158px;margin:0 0 39px;}
+.j_commit_state p{padding: 33px 24px 23px 26px;}
+.j_commit_action table tr td{border:1px solid #f1f1f1;text-align:center;}
+.j_commit_action table tr td p{height:30px;overflow:hidden;padding:3px 0 0 0;}
+.j_commit_bind_account{margin:35px 0 0 52px}
+.j_SelAStyle:hover{background: #f1f1f1;display: block;padding:3px;border-radius: 3px;}
+.down_ico1{float: right; margin: 10px 0 0;}
+.j_commit_setLayout .j_edit{ margin-top:2px}
+
+/*我的关注，粉丝,说说 begin*/
+.commit_fans_con,.commit_atten_con,.com_say_maincon{ width:773px;}
+.commit_fans_con ul li,.commit_atten_con ul li{display:block; clear:both }
+.c_fans_l{ display:block;xmin-height:70px;padding-top:10px }
+.c_fans_l .fans_head,.say_head{ width:50px; height:50px; margin-right:13px; display:block; float:left; overflow:hidden}
+.c_fans_l .fans_left{ width:520px; float:left; overflow:hidden}
+
+/*fans_about begin*/
+.fans_about{height:20px; line-height:20px;}
+.fans_about .fans_name{ font-size:14px; color: #1E50A2;font-weight:bold; margin-right:10px }
+.fans_about .fans_place{ font-size:12px; color:#999}
+.fans_friend{ height:28px; line-height:28px}
+.fans_friend span{ color:#999; padding-right:10px;}
+.fans_friend a.fans_span{ font-size:14px}
+.fans_says{ font-size:12px; color:#2b2b2b; line-height:22px;}
+/*fans_about end*/
+
+/*c_fans_r begin*/
+.c_fans_r{ width:160px; float:right; overflow:hidden}
+.c_fans_r .m_fans_atte{ width:71px; height:15px; float:right; margin-right:18px; cursor:pointer; color:#778393; padding-left:20px;}
+.c_fans_r .m_fans_att1{background:url(../../images/commit/m_attention_icon.png) no-repeat 0 5px;}
+.c_fans_r .m_fans_att2{ background:url(../../images/commit/m_attention_icon.png) no-repeat 0 -11px;}
+.c_fans_r .m_fans_att3{ background:url(../../images/commit/m_attention_icon.png) no-repeat 0 -27px;}
+/*c_fans_r end*/
+
+/*com_say_nav begin*/
+.comm_say_nav{ width:763px; height:35px; line-height:40px; border-bottom:1px solid #f1f1f1; margin-bottom:10px; display:block; color:#2b2b2b}
+.comm_say_nav a{color:#1E50A2; margin: 0 10px 0 5px;}
+.comm_say_nav a.on{ color:#2b2b2b; font-weight:bold}
+/*com_say_nav end*/
+
+/*两栏说 说宽度*/
+.commit_says .m_content{ width:670px;}
+
+/*发起活动*/
+.acitve_box{ padding-left:45px; margin-top:20px; line-height:25px; font-size:14px; color:#2b2b2b; border-bottom:1px solid #f1f1f1}
+.act_img{ width:100px; height:100px; margin-right:8px; margin-top:6px}
+.act_con{ width:440px; padding-right:65px; margin-bottom:25px}
+.act_con .act_title h3{ display:inline}
+.act_detail a{ padding:0 10px;}
+.j_groupLinks a.greenBtn{ margin-top:-7px; color:#fff; font-size:12px}
+
+/*修改活动*/
+.j_commit_act_modify{ width:555px; margin:0 auto}
+.j_commit_act_modify .j_inpStyle{ width:310px; font-size:12px}
+.j_commit_act_modify .j_areaSytle{ width:311px; height:110px; line-height:23px; padding:3px 5px; color:#999;font-size:12px}
+.j_commit_act_modify .width170{ width:170px}
+.j_commit_act_modify .width147{ width:147px}
+.j_commit_act_modify .j_commit_setLayout{ margin:8px 0}
+.j_commit_act_modify .j_commit_setLayout div{ margin-right:0; padding-right:0}
+.j_commit_act_modify .j_commit_setLayout .left{ height:25px; line-height:25px}
+.j_commit_act_modify .j_selStyle1{ width:72px; }
+.j_commit_act_modify .j_commit_setLayout .left{ width:120px}
+.j_commit_act_modify .sp_upword{height:27px; line-height:27px; color:#999}
+.j_commit_act_modify .j_submit_layout{ padding: 0 0 0 145px;}
+
+/*共青团工作日志列表*/
+.work_CYL{ width:755px; margin:0 auto}
+.jmainFWTitle2{ display:inline-block}
+.log_box{ width:755px;}
+.log_box .log_title{ font-size:24px;  text-align:center; margin-bottom:10px; font-family:"黑体";}
+.log_box .log_title a{color:#1e50a2; }
+.log_box .box_t,.log_box .box_m,.log_box .box_b{width:755px; float:left; overflow:hidden }
+.log_box .box_t{ height:18px; background:url(../../images/commit/log_box_tbg.jpg) no-repeat;}
+.log_box .box_m{ background:#f8f7f7; color:#2b2b2b; font-size:14px; width:712px; padding:0 18px 20px 24px }
+.log_box .box_m p,.log_content p{ text-indent:26px; text-align:justify}
+.log_box .box_b{ width:711px;height:50px;background:url(../../images/commit/log_box_bbg.jpg) no-repeat; padding:0 22px}
+.log_time,.btm_tools{ color:#999;}
+.log_tools a,.btm_tools a{ padding:0 5px; }
+
+/*写工作日志*/
+.detail_page{ width:746px; margin:0 auto}
+.log_t_edit{ width:746px; height:57px; text-align:center; line-height:57px; color:#2b2b2b; font-size:24px; border:1px dashed #d3d3d3; font-weight:bold}
+.log_t_edit:focus{ border:2px solid #ffc600;color:#999;height: 55px;width: 744px;}
+.log_t_focus{ background:url(../../images/commit/log_title_bg.jpg) no-repeat;border:2px solid #ffc600;color:#999;height: 55px;width: 744px;  }
+.log_content{ padding-top:15px; color:#2b2b2b; font-size:14px}
+.hr_line15{ width:auto; height:1px; display:block; clear:both; border-bottom:1px solid #f1f1f1; padding-bottom:15px; margin-bottom:15px}
+.log_btns .cancleBtn{ margin:0; margin-left:25px; display:inline-block}
+
+/*详细页如下*/
+/*浏览工作日志*/
+.log_t_h2{ height:57px; text-align:center; line-height:57px; color:#2b2b2b; font-size:24px; }
+.tools_ed .edit_icon{ background:url(../../images/commit/edit_icon.gif) no-repeat left center; padding-left:20px}
+.log_visitor_list ul li{ width:50px;float:left; overflow:hidden; margin-right:30px; text-align:center}
+/*公告文章*/
+p.public_dec{ text-align:center}
+
+/*详细页评论*/
+.detail_p_comment .m_pb_c{ width:743px; height:90px; border:1px solid #D3D3D3; margin-bottom:2px}
+.detail_p_comment .m_wei .m_content{ width:676px}
+.detail_p_comment .comm_talk .m_pbto .font_num{ position:absolute; right:95px; bottom:5px; font-weight:normal; font-family:"宋体"; font-size:12px; color:#2b2b2b}
+.detail_p_comment .comm_talk .add_zi{ padding-top:9px; padding-right:5px}
+
+
+/*公告发布*/
+.public_page{line-height:34px; font-size:14px;color:#2b2b2b; width:530px; padding-left:60px}
+.public_page .public_list ul{ line-height:25px}
+.public_page .j_more{ padding-left:10px}
+
+/*发布内容*/
+.public_modify .j_commit_setLayout{margin-bottom:13px; margin-top:0}
+.public_modify .j_commit_setLayout .left{ width:80px; padding:0;padding-right:6px; margin:0; text-align:right;font-size:14px}
+.public_modify .j_inpStyle{ width:370px; }
+.public_modify .j_commit_setLayout div{ padding:0; margin:0}
+.public_modify .j_areaSytle{ width:663px; height:400px;padding:5px; line-height:23px}
+.public_modify .j_commit_setLayout .check_put{ font-size:14px; margin-right:13px;}
+.public_modify .check_put input{margin-right:5px}
+.public_modify .j_bt_layout1{}
+
+/*团委对公首页*/
+/*团委信息*/
+.c_user_infor{ color:#2b2b2b; line-height:24px}
+.c_user_infor .c_user_name{ font-size:14px; padding-bottom:15px;}
+.c_user_infor .attend_fan{ width:83px; height:24px; padding:0 6px; padding-left:28px; border:1px solid #dedcdd; color:#999; line-height:24px; background:#f1f1f1 url(../../images/common/att_v.png) no-repeat 6px center; }
+.c_user_infor .cancle_fan{ color:#ff8947;}
+.c_user_infor .shu{ padding:0 6px}
+.comm_right .pl_licon{ margin-top:30px}
+
+
+
